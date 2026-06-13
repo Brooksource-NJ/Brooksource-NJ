@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./profile/assets/brooksource-banner.png" alt="Brooksource" width="100%">
+  <img
+    src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=80"
+    alt="Technology Consulting Team"
+    width="100%">
 </p>
 
 <h1 align="center">Brooksource</h1>
